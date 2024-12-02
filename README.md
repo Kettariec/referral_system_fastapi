@@ -54,13 +54,13 @@ DB_USER=*имя пользователя базы данных*
 <br>DB_PASS=*пароль базы данных*
 <br>DB_NAME=*имя базы данных*
 <br>SECRET_KEY=*секретный ключ*
+<br>SMTP_USER=*почта gmail*
+<br>SMTP_PASS=*пароль smtp gmail*
 <br>DB_HOST=localhost
 <br>DB_PORT=5432
 <br>ALGORITHM=HS256
 <br>SMTP_HOST=smtp.gmail.com
 <br>SMTP_PORT=465
-<br>SMTP_USER=kettariec@gmail.com
-<br>SMTP_PASS=zxnp oefx ulxl jmcj
 <br>FRONTEND_URL=http://127.0.0.1:8000
 
 ### 4. Применение миграций:
